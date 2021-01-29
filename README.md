@@ -12,7 +12,7 @@ However, other ways of structuring the data and metadata are permissible as long
 
 ## How to contribute
 
-This reporting format is evolving and adapting to meet the needs of the community. Feedback and new contributions are welcome. If you would like to suggest a change, please submit a GitHub issue using one of the templates we provide. We recognize that, although our intent is to provide a reporting format that will enable data producers to gain wider spread recognition for their data and data users to gain more streamlined options for automized download and synthesis of datasets, the result is a reporting format that will please nobody and that leaves a lot to be desired from everybody. 
+This reporting format is evolving and adapting to meet the needs of the community. Feedback and new contributions are welcome. If you would like to suggest a change, please submit a GitHub issue using one of the [templates we provide](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/issues/new/choose). We recognize that, although our intent is to provide a reporting format that will enable data producers to gain wider spread recognition for their data and data users to gain more streamlined options for automized download and synthesis of datasets, the result is a reporting format that will please nobody and that leaves a lot to be desired from everybody. 
 
 If you have any questions about this reporting format, you can also email ESS-DIVE support at ess-dive-support *at* lbl.gov.
 
