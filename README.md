@@ -1,4 +1,4 @@
-ESS-DIVE Reporting Format for Water-Soil-Sediment Chemistry Data
+# ESS-DIVE Reporting Format for Water-Soil-Sediment Chemistry Data
 
 This reporting format has been developed to use for data from chemical concentration measurements of water, soil, and sediment samples. The goal of the reporting format is to ensure that data and metadata files are machine-readable, and that enough metadata is included with the data to make it FAIR (findable, accessible, interoperable, and re-useable) such that data meta-data analyses, modelling, and other ‘data uses’ are enabled. However, the primary purpose is to provide guidelines and templates that facilitate the process of archiving water/soil/sediment chemistry data in a meaningful way for the data producers/collectors and ensure that appropriate credit is received for collecting the data. 
 
