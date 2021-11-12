@@ -1,3 +1,3 @@
 # Images for GitBook
 
-This folder contains the photos
+This folder contains photos for the reporting format and GitBook
