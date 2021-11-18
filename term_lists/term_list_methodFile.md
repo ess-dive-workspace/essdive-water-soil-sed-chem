@@ -1,4 +1,4 @@
-|Metadata_Element|methodID|
+|metadata_element|methodID|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|required|
 |**definition**|identifier for the method used|
@@ -6,7 +6,7 @@
 |**additional_instructions**|must be unique within the dataset &#124; recommended to maintain a consistent set of methodIDs within a team or project|
 |**examples**|ANION_T_AN_000 &#124; FRZ_80C &#124; H2Odilutionx2|
 
-|Metadata_Element|methodType|
+|metadata_element|method_Type|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|required|
 |**definition**|the type of method |
@@ -14,7 +14,7 @@
 |**additional_instructions**|use recommended vocabulary if possible &#124; include definitions for used terminology in dataDictionary|
 |**examples**|analysisMethod &#124; storageMethod &#124; preparationMethod &#124; dataProcessingMethod|
 
-|Metadata_Element|methodDescription|
+|metadata_element|method_Description|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|required|
 |**definition**|method description detailed enough to pass peer review in a scientific publication|
@@ -22,7 +22,7 @@
 |**additional_instructions**|may refer to publication of method including any deviations and modifications applied|
 |**examples**|EPA 353.2 Rev 2 &#124; Vials were stored at -80 degC until prepared for analysis &#124; Dissolved organic C was analyzed by the non-purgeable organic C (NPOC) method on a Shimadzu TOC-L analyzer with in-line acidification (phosphoric acid) of samples to volatilize inorganic C|
 
-|Metadata_Element|methodInstrument|
+|metadata_element|method_Instrument|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|required|
 |**definition**|instrument specifications: type &#124; model &#124; manufacturer &#124; manufacturing location |
@@ -30,7 +30,7 @@
 |**additional_instructions**|use N/A for methods that did not involve a specific instrument|
 |**examples**|WestCo SmartChem 200 Discrete Analyzer &#124; ICP-MS XSERIES 2 - 135 Thermo Scientific - Cambridge - U.K.|
 
-|Metadata_Element|methodLab|
+|metadata_element|method_Lab|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|required|
 |**definition**|name of the laboratory where the method was performed|
@@ -38,7 +38,7 @@
 |**additional_instructions**|as specific as possible &#124; may be more than one laboratory if appropriate but must be clarified what was done where in that case|
 |**examples**|EMSL-PNNL &#124; UC Davis Analytical Lab|
 
-|Metadata_Element|methodLabContact|
+|metadata_element|method_LabContact|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|recommended|
 |**definition**|contact details for the laboratory where the method was performed|
@@ -46,31 +46,31 @@
 |**additional_instructions**|include all relevant contact information; website &#124; email address &#124; postal address &#124; phone number&#124; name of contact person|
 |**examples**|UC Davis Analytical Lab; University of California Davis; CA-95616-5270; (530) 752-0147; anlab@ucdavis.edu|
 
-|Metadata_Element|methodTemp|
+|metadata_element|method_Temp|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|recommended|
 |**definition**|temperature at which method was carried out|
-|**format**|text | degrees celsius preferred|
+|**format**|text \| degrees celsius preferred|
 |**additional_instructions**|recommended format is temperature in degrees celsius (e.g. 20C, 2C, -80C), but can also be "ambient", "unknown", "iced", "heated' etc that provides relevant information even if the exact temperature is not known|
 |**examples**| 2C &#124; -80C &#124; frozen &#124; room temperature|
 
-|Metadata_Element|methodLight|
+|metadata_element|method_Light|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|recommended|
 |**definition**|light conditions for the method|
-|**format**|text | camelCase preferred|
+|**format**|text \| camelCase preferred|
 |**additional_instructions**|report if light conditions are relevant for sample integrity|
 |**examples**|ambient light &#124; dark &#124; unknown|
 
-|Metadata_Element|methodAtmosphere|
+|metadata_element|method_Atmosphere|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|recommended|
 |**definition**|atmosphere for the method|
-|**format**|text &#124; alphanumerical preferred|
+|**format**|text \| alphanumerical preferred|
 |**additional_instructions**|report if atmosphere is relevant for sample integrity or method specificity |
 |**examples**|anoxic &#124; 95to5-N2toH2&#124; vaccuum &#124; He |
 
-|Metadata_Element|methodMoisture|
+|metadata_element|method_Moisture|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|recommended|
 |**definition**|moisture conditions of sample exposed to method|
@@ -78,15 +78,15 @@
 |**additional_instructions**|only relevant for solid samples|
 |**examples**|dry &#124; field moist &#124; 30 percent water holding capacity &#124; field capacity |
 
-|Metadata_Element|methodMedium|
+|metadata_element|method_Medium|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|recommended|
 |**definition**|medium used for the method|
 |**format**|text|
 |**additional_instructions**|report for methods involving manipulations of the initial sample medium: extractions&#124; dilutions &#124; nutrient media for incubations. Must include concentrations and specific composition in method description field.|
-|**examples**||
+|**examples**|N/A|
 
-|Metadata_Element|methodTime|
+|metadata_element|method_Time|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|recommended|
 |**definition**|time span for method|
@@ -94,7 +94,7 @@
 |**additional_instructions**|report if relevant for the method: incubation time &#124; storage time &#124; extraction time etc|
 |**examples**|2 hours &#124; 30 days &#124; 20 minutes|
 
-|Metadata_Element|methodReference|
+|metadata_element|method_Reference|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|recommended|
 |**definition**|citation or link to published method description|
