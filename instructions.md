@@ -26,7 +26,7 @@ To create a dataset containing chemical concentration data for water/soil/sedime
   
   8. **Assemble the file level metadata (FLMD) table for all files in your dataset** (template) **(ADD LINK)**. Note that all files included in a dataset must be listed in the FLMD table.
     
-![alt text](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/.gitbook/assests/Instructions_Figure_1_Top.png)
-![alt text](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/.gitbook/assests/Instructions_Figure_1_Bottom.png)
+![Diagram showing the different components of file-level metadata that can be uploaded as part of a complete data package.](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/.gitbook/assests/Instructions_Figure_1_Top.png)
+![Diagram showing the different components of file-level metadata that can be uploaded as part of a complete data package.](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/.gitbook/assests/Instructions_Figure_1_Bottom.png)
 
 **Figure 1.** Example of FLMD table for a dataset with two data files from SLAC SFA 2018 field campaign at Slate River, CO. *Top:* Columns A-H, *Bottom:* Columns I-Q.
