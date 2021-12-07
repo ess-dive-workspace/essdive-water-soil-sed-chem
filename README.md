@@ -4,9 +4,9 @@
 This reporting format is recommended for data from chemical concentration measurements of water, soil, and sediment samples.
 
 ## Quickstart Guide
-  1. **Read** the instructions for each file type in this reporting format: main instructions, terminology, methods, data, data dictionary
-  2. **Review** examples of filled in template files
-  3. **Download** blank templates
+  1. **Read** the instructions for each file type in this reporting format: [main instructions](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/instructions.md), [terminology](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/Detailed_Instructions_Terminology_File.md), [methods](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/Detailed_Instructions_Methods_File.md), [data](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/Detailed_Instructions_Data_File.md), [data dictionary](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/Detailed_Instructions_Data_Dictionary_File.md)
+  2. **Review** [examples of filled in template files](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/tree/main/examples)
+  3. **Download** [blank templates](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/tree/main/templates)
   4. **Use term list** to fill in templates
   5. **Save** all templates as CSV files and **upload to ESS-DIVE** as dataset
     
