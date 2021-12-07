@@ -44,7 +44,7 @@
 |**definition**|contact details for the laboratory where the method was performed|
 |**format**|text|
 |**additional_instructions**|include all relevant contact information; website &#124; email address &#124; postal address &#124; phone number&#124; name of contact person|
-|**examples**|UC Davis Analytical Lab; University of California Davis; CA-95616-5270; (530) 752-0147; anlab@ucdavis.edu|
+|**examples**|UC Davis Analytical Lab; University of California Davis; CA-95616-5270; (530) 752-0147; anlab (at) ucdavis.edu|
 
 |metadata_element|method_Temp|
 |:----------------------------------------------------|:----------------------------------------------------|
