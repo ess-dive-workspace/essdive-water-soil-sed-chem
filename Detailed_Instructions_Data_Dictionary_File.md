@@ -31,7 +31,7 @@ The following instructions are from the [ESS-DIVE file level metadata reporting 
 
 
 
-Notes
+### Notes
 
 Following the recommended format and structure of the CSV Reporting Format will facilitate File-Level Metadata extraction of some fields using the [File Level Metadata Extractor](https://code.ornl.gov/ngee-arctic/ess-dive-meta).
 
