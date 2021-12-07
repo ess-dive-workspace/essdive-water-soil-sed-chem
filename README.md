@@ -13,7 +13,7 @@ This reporting format is recommended for data from chemical concentration measur
     
 ## How to contribute
 
-This reporting format is evolving and adapting to meet the needs of the community. Feedback and new contributions are welcome. If you would like to suggest a change, please submit a GitHub issue using one of the templates we provide **(ADD LINK)**.
+This reporting format is evolving and adapting to meet the needs of the community. Feedback and new contributions are welcome. If you would like to suggest a change, please submit a GitHub issue using one of the [templates we provide](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/issues/new/choose).
 
 Though our intent is to provide a reporting format that will enable data producers to gain wider recognition for their data and data users to gain more streamlined options for automated download and synthesis of datasets, the result is a reporting format that will not fully please anyone and that leaves a lot to be desired from everybody. 
 
@@ -28,7 +28,7 @@ This repository content is license for use under the [CC BY 4.0 license](https:/
 Funding for the development of ESS-DIVE's generic water/soil/sediment sample data and metadata reporting format was provided by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Climate and Environmental Science Division, Data Management program under contract number DE-AC02-05CH11231.
 
 ## Recommended citation
-ADD IN CITATION
+*Citation will be updated soon*
 
 ## References
 
