@@ -19,7 +19,7 @@
   * [Term list and dd combined](examples/Terms_dd_combo_example.csv)
   * [Term list example](examples/Terms_example.csv)
   * [FLMD example](examples/flmd_example.csv)
-* [Blank templates]
+* Blank templates
   * [Data file optional template](templates/Data_opt_template.csv)
   * [Data file required only template](templates/templates/Data_req_template.csv)
   * [Methods file optional template](templates/Methods_opt_template.csv)
