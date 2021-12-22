@@ -7,7 +7,7 @@ Figure 1 shows examples of the minimum (top) and optional/recommended (bottom) m
 
 Figure 1 shows examples of the minimum (top) and optional/recommended (bottom) metadata fields included in the methods file template. Note that the optional/recommended fields break out metadata that is also included in the Method_Description, but that can be useful for data users to use as basis for data searches (e.g. if looking for data from a specific type of instrument or from anoxically preserved or field moist samples). 
 
-![Diagram showing the methods file template with filled in examples of the required fields.](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/.gitbook/assests/Methods_File_Figure_1_Top.png)
-![Diagram showing the methods file template with filled in examples of both the required and optional fields.](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/.gitbook/assests/Methods_File_Figure_1_Bottom.png)
+![Diagram showing the methods file template with filled in examples of the required fields.](.gitbook/assests/Methods_File_Figure_1_Top.png)
+![Diagram showing the methods file template with filled in examples of both the required and optional fields.](.gitbook/assests/Methods_File_Figure_1_Bottom.png)
 
 **Figure 1.** Example of methods file with only required metadata (top), and with optional (recommended when relevant) metadata fields (bottom).
