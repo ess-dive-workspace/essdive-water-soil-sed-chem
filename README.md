@@ -28,7 +28,7 @@ This repository content is license for use under the [CC BY 4.0 license](https:/
 Funding for the development of ESS-DIVE's generic water/soil/sediment sample data and metadata reporting format was provided by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Climate and Environmental Science Division, Data Management program under contract number DE-AC02-05CH11231.
 
 ## Recommended citation
-*Citation will be updated soon*
+Boye, K., Crystal-Ornelas, R., O’Ryan, D., Goldman, A. E., Damerow, J., Varadharajan, C., & Agarwal, D. (In Prep). ESS-DIVE Reporting Format for Sample-based Water and Soil Chemistry Measurements. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE), ESS-DIVE repository. https://doi.org/10.15485/1865731
 
 ## References
 
