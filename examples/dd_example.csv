@@ -1,0 +1,15 @@
+﻿Column_or_Row_Name,Unit,Definition,Column_or_Row_Long_Name,Data_Type
+#Columns,N/A,"number of columns with (meta)data, not including the column with row headers",N/A,numerical
+#Header_Rows,N/A,number of rows with metadata before first data value,N/A,numerical
+Column_Name,N/A,column header,N/A,text
+Unit,N/A,header for row with units,N/A,text
+Unit_Basis,N/A,specification of basis for unit,N/A,text
+MethodID_Analysis,N/A,code for the analysis method used,N/A,text
+Analysis_DetectionLimit,micrograms_per_liter,limit of detection for the analysis,N/A,numerical
+Analysis_Precision,micrograms_per_liter,precision of measurements,N/A,numerical
+Data_Status,N/A,quality control and processing status of the data,N/A,text
+#Start_Data,N/A,first row of data entries,N/A,text
+#End_Data,N/A,row below last data entry,N/A,text
+Sample_Name,N/A,header for column with sample names,N/A,text
+Material,N/A,sample material registered in the sample metadata file,N/A,text
+Dissolved_Organic_Carbon,micrograms_per_liter,concentration of dissolved organic carbon,Dissolved_Organic_Carbon_Concentration,numerical
