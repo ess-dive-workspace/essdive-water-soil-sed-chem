@@ -19,6 +19,7 @@
   * [Term list and dd combined](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/examples/Terms_dd_combo_example.csv)
   * [Term list example](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/examples/Terms_example.csv)
   * [FLMD example](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/examples/flmd_example.csv)
+  * [Data dictionary example](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/examples/dd_example.csv)
 * Blank templates
   * [Data file optional template](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/templates/Data_opt_template.csv)
   * [Data file required only template](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/templates/Data_req_template.csv)
