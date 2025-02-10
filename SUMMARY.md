@@ -6,11 +6,11 @@
   * [Methods file instructions](Detailed_Instructions_Methods_File.md)
   * [Data dictionary instructions](Detailed_Instructions_Data_Dictionary_File.md)
   * [Terminology file instructions](Detailed_Instructions_Terminology_File.md)
-* Term lists
+* [Term lists](term-lists/README.md)
   * [Data term list](term_lists/term_list_dataFile.md)
   * [Dictionary term list](term_lists/term_list_ddFile.md)
   * [Method term list](term_lists/term_list_methodFile.md)
-* Example templates
+* [Example templates](example-templates/README.md)
   * [Data file row shift example](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/examples/Data_col_row_shift_example.csv)
   * [Data file optional fields included](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/examples/Data_opt_example.csv)
   * [Data file required fields only](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/examples/Data_req_example.csv)
@@ -20,7 +20,7 @@
   * [Term list example](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/examples/Terms_example.csv)
   * [FLMD example](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/examples/flmd_example.csv)
   * [Data dictionary example](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/examples/dd_example.csv)
-* Blank templates
+* [Blank templates](blank-templates/README.md)
   * [Data file optional template](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/templates/Data_opt_template.csv)
   * [Data file required only template](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/templates/Data_req_template.csv)
   * [Methods file optional template](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/templates/Methods_opt_template.csv)
@@ -28,5 +28,5 @@
   * [Term list and dd combined template](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/templates/Terms_dd_combo_template.csv)
   * [Term list template](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/templates/Terms_template.csv)
   * [Data dictionary template](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/templates/dd_template.csv)
-  * [FLMD template](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/templates/flmd_template.csv) 
+  * [FLMD template](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/templates/flmd_template.csv)
 * [License](LICENSE.md)
