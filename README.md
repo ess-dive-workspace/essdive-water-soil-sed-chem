@@ -11,7 +11,7 @@ This reporting format is recommended for data from chemical concentration measur
   5. **Save** all templates as CSV files and **upload to ESS-DIVE** as dataset
 
 ## Updates in v1.0.1
-In March 2025, a patch version of the Water-Soil-Sediment Chemistry reporting format was made to improve the overall experience with the associated reporting format documentation. Additionally, the standard reporting format keyword and standard term was included witin the instructions.md file.
+In March 2025, a patch version of the Water-Soil-Sediment Chemistry reporting format was made to improve the overall experience with the associated reporting format documentation. Additionally, the standard reporting format keyword and standard term were added to the instructions.md file.
     
 ## How to contribute
 
