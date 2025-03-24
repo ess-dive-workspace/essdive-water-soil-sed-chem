@@ -1,19 +1,21 @@
-# ESS-DIVE Reporting Format for Water-Soil-Sediment Chemistry Data v1.0.0
+# ESS-DIVE Reporting Format for Water-Soil-Sediment Chemistry Data v1.0.1
 
 ## About the reporting format
 This reporting format is recommended for data from chemical concentration measurements of water, soil, and sediment samples.
 
 ## Quickstart Guide
-  1. **Read** the instructions for each file type in this reporting format: [main instructions](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/instructions.md), [terminology](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/Detailed_Instructions_Terminology_File.md), [methods](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/Detailed_Instructions_Methods_File.md), [data](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/Detailed_Instructions_Data_File.md), [data dictionary](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/blob/main/Detailed_Instructions_Data_Dictionary_File.md)
-  2. **Review** [examples of filled in template files](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/tree/main/examples)
-  3. **Download** [blank templates](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/tree/main/templates)
-  4. **Use [term list](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/tree/main/term_lists)** to fill in templates
+  1. **Read** the instructions for each file type in this reporting format: [main instructions](instructions.md), [terminology](Detailed_Instructions_Terminology_File.md), [methods](Detailed_Instructions_Methods_File.md), [data](Detailed_Instructions_Data_File.md), [data dictionary](Detailed_Instructions_Data_Dictionary_File.md)
+  2. **Review** [examples of filled in template files](examples)
+  3. **Download** [blank templates](templates)
+  4. **Use [term list](term_lists)** to fill in templates
   5. **Save** all templates as CSV files and **upload to ESS-DIVE** as dataset
-    
+
+## Updates in v1.0.1
+In March 2025, a patch version of the Water-Soil-Sediment Chemistry reporting format was made to improve the overall experience with the associated reporting format documentation. Additionally, the standard reporting format keyword and standard term was included witin the instructions.md file.
     
 ## How to contribute
 
-This reporting format is evolving and adapting to meet the needs of the community. Feedback and new contributions are welcome. If you would like to suggest a change, please submit a GitHub issue using one of the [templates we provide](https://github.com/ess-dive-community/essdive-water-soil-sed-chem/issues/new/choose).
+This reporting format is evolving and adapting to meet the needs of researchers. Feedback and new contributions are welcome. If you would like to suggest a change, please submit a GitHub issue using one of the [templates we provide](https://github.com/ess-dive-workspace/essdive-water-soil-sed-chem/issues/new/choose).
 
 Though our intent is to provide a reporting format that will enable data producers to gain wider recognition for their data and data users to gain more streamlined options for automated download and synthesis of datasets, the result is a reporting format that will not fully please anyone and that leaves a lot to be desired from everybody. 
 
@@ -32,4 +34,4 @@ Boye, K., Crystal-Ornelas, R., O’Ryan, D., Goldman, A. E., Damerow, J., Varadh
 
 ## References
 
-Our reporting format was loosely based on those used by the EPA and USGS through the [Water Quality Portal (WQP)](https://www.waterqualitydata.us/), but were also inspired from other standards, best practices, and recommendations within the water quality, soil science, and geological survey communities. Most importantly the reporting format and templates were developed to fit with needs, recommendations, and advice from the DOE-BER-ESS community including both data producers and data users – a summary of the community member feedback and list of consulted members can be found as part of the dataset cited above.
+Our reporting format was loosely based on those used by the EPA and USGS through the [Water Quality Portal (WQP)](https://www.waterqualitydata.us/), but were also inspired from other standards, best practices, and recommendations within the water quality, soil science, and geological survey communities. Most importantly the reporting format and templates were developed to fit with needs, recommendations, and advice from the DOE-BER-ESS researchers including both data producers and data users – a summary of the DOE ESS member feedback and list of consulted members can be found as part of the dataset cited above.
